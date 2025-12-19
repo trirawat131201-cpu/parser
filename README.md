@@ -135,6 +135,6 @@ yarn run test
 - [prettier-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity/)
 - [eth-gas-reporter](https://github.com/cgewecke/eth-gas-reporter)
 
-## License
+## License 1.0
 
 [MIT](./LICENSE)
